@@ -2,16 +2,16 @@
 collection of personal infographics
 
 ## Semantic Versioning
-![Semantic Versioning](infog-semantic-versioning.png)
+<img src="infog-semantic-versioning.png" width="640px" title="Semantic Versioning">
 
 ## Writing Principles
-![Writing Principles](infog-writingprinciples.png)
+<img src="infog-writingprinciples.png" width="640px" title="Writing Principles">
 
 ## Work Smarter
-![Work Smarter](infog-work-smarter.png)
+<img src="infog-work-smarter.png" width="640px" title="Work Smarter">
 
 ## Good Old SOLID Design
-![SOLID](infog-solid.png)
+<img src="infog-solid.png" width="640px" title="SOLID">
 
 
 
