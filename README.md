@@ -1,14 +1,17 @@
 # infographics-collection
 collection of personal infographics
 
+## Semantic Versioning
+<img src="infog-semantic-versioning.png" width="640px" title="Semantic Versioning">
+
 ## Writing Principles
-![Writing Principles](https://raw.githubusercontent.com/mad4j/infographics-collection/master/infog-writingprinciples.png)
+<img src="infog-writingprinciples.png" width="640px" title="Writing Principles">
 
 ## Work Smarter
-![Work Smarter](https://raw.githubusercontent.com/mad4j/infographics-collection/master/infog-work-smarter.png)
+<img src="infog-work-smarter.png" width="640px" title="Work Smarter">
 
 ## Good Old SOLID Design
-![SOLID](https://raw.githubusercontent.com/mad4j/infographics-collection/master/infog-solid.png)
+<img src="infog-solid.png" width="640px" title="SOLID">
 
 
 
