@@ -1,8 +1,8 @@
 # infographics-collection
 collection of personal infographics
 
-## Semantic Versioning
-<img src="infog-semantic-versioning.png" width="640px" title="Semantic Versioning">
+## Versioning for Applications
+<img src="infog-app-versioning.png" width="640px" title="Versioning">
 
 ## Writing Principles
 <img src="infog-writingprinciples.png" width="640px" title="Writing Principles">
