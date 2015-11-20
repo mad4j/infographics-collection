@@ -1,6 +1,9 @@
 # infographics-collection
 collection of personal infographics
 
+## System Design
+<img src="infog-systemdesign.png" width="640px" title="System Design">
+
 ## Versioning for Applications
 <img src="infog-app-versioning.png" width="640px" title="Versioning">
 
