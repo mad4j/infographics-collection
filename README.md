@@ -1,6 +1,9 @@
 # infographics-collection
 collection of personal infographics
 
+## Six Simple Habits
+<img src="infog-sixsimplehabits.png" width="640px" title="Six Simple Habits">
+
 ## System Design
 <img src="infog-systemdesign.png" width="640px" title="System Design">
 
