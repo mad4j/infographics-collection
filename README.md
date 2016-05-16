@@ -1,5 +1,8 @@
-# infographics-collection
+# Infographics collection
 collection of personal infographics
+
+## Monty Hall problem
+<img src="infog-montyhall.png" width="640px" title="Monty Hall problem">
 
 ## Six Simple Habits
 <img src="infog-sixsimplehabits.png" width="640px" title="Six Simple Habits">
