@@ -2,6 +2,9 @@
 collection of personal infographics
 
 ## Monty Hall problem
+<img src="infog-INTRICATE.png" width="640px" title="Intricate vs Secure">
+
+## Monty Hall problem
 <img src="infog-montyhall.png" width="640px" title="Monty Hall problem">
 
 ## Six Simple Habits
