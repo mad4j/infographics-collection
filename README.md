@@ -1,6 +1,9 @@
 # Infographics collection
 collection of personal infographics
 
+## Management Rules 
+<img src="infog-management.png" width="640px" title="Management Rules">
+
 ## Complexity Vs. Security 
 <img src="infog-INTRICATE.png" width="640px" title="Intricate vs Secure">
 
