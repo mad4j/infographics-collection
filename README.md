@@ -1,7 +1,7 @@
 # Infographics collection
 collection of personal infographics
 
-## Monty Hall problem
+## Complexity Vs. Security 
 <img src="infog-INTRICATE.png" width="640px" title="Intricate vs Secure">
 
 ## Monty Hall problem
