@@ -1,6 +1,9 @@
 # Infographics collection
 collection of personal infographics
 
+## Making Mistakes in Program Management 
+<img src="Making Mistakes is humanpersevering makes the budget go out of business.png" width="640px" title="Management Rules">
+
 ## Management Rules 
 <img src="infog-management.png" width="640px" title="Management Rules">
 
