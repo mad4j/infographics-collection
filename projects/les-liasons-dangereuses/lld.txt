@@ -1,0 +1,176 @@
+Lettre I,Cécile Volanges,Sophie Carnay
+Lettre II,La Marquise de Merteuil,Vicomte de Valmont
+Lettre III,Cécile Volanges,Sophie Carnay
+Lettre IV,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre V,La Marquise de Merteuil,Vicomte de Valmont
+Lettre VI,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre VII,Cécile Volanges,Sophie Carnay
+Lettre VIII,De madame la présidente de Tourvel,madame de Volanges
+Lettre IX,De madame de Volanges,la présidente de Tourvel
+Lettre X,La Marquise de Merteuil,Vicomte de Valmont
+Lettre XI,Madame la présidente de Tourvel,Madame de Volanges
+Lettre XII,Cécile Volanges,la Marquise de Merteuil
+Lettre XIII,La Marquise de Merteuil,Cécile Volanges
+Lettre XIV,Cécile Volanges,Sophie Carnay
+Lettre XV,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre XVI,Cécile Volanges,Sophie Carnay
+Lettre XVII,Le Chevalier Danceny,Cécile Volanges
+Lettre XVIII,Cécile Volanges,Sophie Carnay
+Lettre XIX,Cécile Volanges,Chevalier Danceny
+Lettre XX,La Marquise de Merteuil,Vicomte de Valmont
+Lettre XXI,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre XXII,Madame de Tourvel,Madame de Volanges
+Lettre XXIII,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre XXIV,Le Vicomte de Valmont,Madame Tourvel
+Lettre XXV,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre XXVI,La présidente de Tourvel,Vicomte de Valmont
+Lettre XXVII,Cécile Volanges,Madame de Merteuil
+Lettre XXVIII,Le Chevalier Danceny,Cécile Volanges
+Lettre XXIX,Cécile Volanges,Sophie Carnay
+Lettre XXX,Cécile Volanges,Chevalier Danceny
+Lettre XXXI,Le Chevalier Danceny,Cécile Volanges
+Lettre XXXII,Madame de Volanges,Madame la Présidente de Tourvel
+Lettre XXXIII,La Marquise de Merteuil,Vicomte de Valmont
+Lettre XXXIV,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre XXXV,Le Vicomte de Valmont,la présidente de Tourvel
+Lettre XXXVI,Le Vicomte de Valmont,la Présidente de Tourvel
+Lettre XXXVII,La Présidente de Tourvel,Madame de Volanges
+Lettre XXXVIII,De Madame la Marquise de Merteuil,Vicomte de Valmont
+Lettre XXXIX,Cécile Volanges,Sophie Carnay
+Lettre XL,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre XLI,La Présidente de Tourvel,Vicomte de Valmont
+Lettre XLII,Le Vicomte de Valmont,la Présidente de Tourvel
+Suite de la lettre XL,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre XLIII,La Présidente de Tourvel,Vicomte de Valmont
+Lettre XLIV,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre XLV,La Présidente de Tourvel,Madame de Volanges
+Lettre XLVI,Le Chevalier Danceny,Cécile Volanges
+Lettre XLVII,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre XLVIII,Le Vicomte de Valmont,la Présidente de Tourvel
+Lettre XLIX,Cécile Volanges,Chevalier Danceny
+Lettre L,La Présidente de Tourvel,Vicomte de Valmont
+Lettre LI,La Marquise de Merteuil,Vicomte de Valmont
+Lettre LII,Le Vicomte de Valmont,la Présidente de Tourvel
+Lettre LIII,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre LIV,La Marquise de Merteuil,Vicomte de Valmont
+Lettre LV,Cécile Volanges,Sophie Carnay
+Lettre LVI,La Présidente de Tourvel,Vicomte de Valmont
+Lettre LVII,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre LVIII,Le Vicomte de Valmont,la Présidente de Tourvel
+Lettre LIX,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre LX,Le Chevalier Danceny,Vicomte de Valmont
+Lettre LXI,Cécile Volanges,Sophie Carnay
+Lettre LXII,Madame de Volanges,Chevalier Danceny
+Lettre LXIII,La Marquise de Merteuil,Vicomte de Valmont
+Lettre LXIV,Le Chevalier Danceny,Madame de Volanges
+Lettre LXV,Le Chevalier Danceny,Cécile Volanges
+Lettre LXVI,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre LXVII,La Présidente de Tourvel,Vicomte de Valmont
+Lettre LXVIII,Le Vicomte de Valmont,la Présidente de Tourvel
+Lettre LXIX,Cécile Volanges,Chevalier Danceny
+Lettre LXX,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre LXXI,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre LXXII,Le Chevalier Danceny,Cécile Volanges
+Lettre LXXIII,Le Vicomte de Valmont,Cécile Volanges
+Lettre LXXIV,La Marquise de Merteuil,Vicomte de Valmont
+Lettre LXXV,Cécile Volanges,Sophie Carnay
+Lettre LXXVI,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre LXXVII,Le Vicomte de Valmont,la Présidente de Tourvel
+Lettre LXXVIII,La Présidente de Tourvel,Vicomte de Valmont
+Lettre LXXIX,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre LXXX,Le Chevalier Danceny,Cécile Volanges
+Lettre LXXXI,La Marquise de Merteuil,Vicomte de Valmont
+Lettre LXXXII,Cécile Volanges,Chevalier Danceny
+Lettre LXXXIII,Le Vicomte de Valmont,la Présidente de Tourvel
+Lettre LXXXIV,Le Vicomte de Valmont,Cécile Volanges
+Lettre LXXXV,La Marquise de Merteuil,Vicomte de Valmont
+Lettre LXXXVI,La Maréchale de ***,la Marquise de Merteuil
+Lettre LXXXVII,La Marquise de Merteuil,Madame de Volanges
+Lettre LXXXVIII,Cécile Volanges,Vicomte de Valmont
+Lettre LXXXIX,Le Vicomte de Valmont,Chevalier Danceny
+Lettre XC,La Présidente de Tourvel,Vicomte de Valmont
+Lettre XCI,Le Vicomte de Valmont,la Présidente de Tourvel
+Lettre XCII,Le Chevalier Danceny,Vicomte de Valmont
+Lettre XCIII,Le Chevalier Danceny,Cécile Volanges
+Lettre XCIV,Cécile Volanges,Chevalier Danceny
+Lettre XCV,Cécile Volanges,Vicomte de Valmont
+Lettre XCVI,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre XCVII,Cécile Volanges,la Marquise de Merteuil
+Lettre XCVIII,Madame de Volanges,la Marquise de Merteuil
+Lettre XCIX,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre C,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre CI,Le Vicomte de Valmont,Azolan son chasseur
+Lettre CII,La Présidente de Tourvel,Madame de Rosemonde
+Lettre CIII,Madame de Rosemonde,la Présidente de Tourvel
+Lettre CIV,La Marquise de Merteuil,Madame de Volanges
+Lettre CV,La Marquise de Merteuil,Cécile Volanges
+Lettre CVI,La Marquise de Merteuil,Vicomte de Valmont
+Lettre CVII,Azolan,Vicomte de Valmont
+Lettre CVIII,La Présidente de Tourvel,Madame de Rosemonde
+Lettre CIX,Cécile Volanges,la Marquise de Merteuil
+Lettre CX,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre CXI,Le comte de Gercourt,Madame de Volanges
+Lettre CXII,Madame de Rosemonde,la Présidente de Tourvel
+Lettre CXIII,La Marquise de Merteuil,Vicomte de Valmont
+Lettre CXIV,La présidente de Tourvel,Madame de Rosemonde
+Lettre CXV,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre CXVI,Le Chevalier Danceny,Cécile Volanges
+Lettre CXVII,Cécile Volanges,Chevalier Danceny
+Lettre CXVIII,Le Chevalier Danceny,la Marquise de Merteuil
+Lettre CXIX,Madame de Rosemonde,la présidente de Tourvel
+Lettre CXX,Le Vicomte de Valmont,père Anselme
+Lettre CXXI,La Marquise de Merteuil,Chevalier Danceny
+Lettre CXXII,Madame de Rosemonde,la présidente de Tourvel
+Lettre CXXIII,Le père Anselme,Vicomte de Valmont
+Lettre CXXIV,La présidente de Tourvel,Madame de Rosemonde
+Lettre CXXV,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre CXXVI,Madame de Rosemonde,la présidente de Tourvel
+Lettre CXXVII,La Marquise de Merteuil,Vicomte de Valmont
+Lettre CXXVIII,La présidente de Tourvel,Madame de Rosemonde
+Lettre CXXIX,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre CXXX,Madame de Rosemonde,la présidente de Tourvel
+Lettre CXXXI,La Marquise de Merteuil,Vicomte de Valmont
+Lettre CXXXII,La présidente de Tourvel,Madame de Rosemonde
+Lettre CXXXIII,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre CXXXIV,La Marquise de Merteuil,Vicomte de Valmont
+Lettre CXXXV,La présidente de Tourvel,Madame de Rosemonde
+Lettre CXXXVI,La présidente de Tourvel,Vicomte de Valmont
+Lettre CXXXVII,Le Vicomte de Valmont,la présidente de Tourvel
+Lettre CXXXVIII,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre CXXXIX,La présidente de Tourvel,Madame de Rosemonde
+Lettre CXL,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre CXLI,La Marquise de Merteuil,Vicomte de Valmont
+Lettre CXLII,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre CXLIII,La présidente de Tourvel,Madame de Rosemonde
+Lettre CXLIV,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre CXLV,La Marquise de Merteuil,Vicomte de Valmont
+Lettre CXLVI,La Marquise de Merteuil,Chevalier Danceny
+Lettre CXLVII,Madame de Volanges,Madame de Rosemonde
+Lettre CXLVIII,Le Chevalier Danceny,madame de Merteuil
+Lettre CXLIX,Madame de Volanges,Madame de Rosemonde
+Lettre CL,Le Chevalier Danceny,la Marquise de Merteuil
+Lettre CLI,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre CLII,La Marquise de Merteuil,Vicomte de Valmont
+Lettre CLIII,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre CLIV,Madame de Volanges,Madame de Rosemonde
+Lettre CLV,Le Vicomte de Valmont,Chevalier Danceny
+Lettre CLVI,Cécile Volanges,Chevalier Danceny
+Lettre CLVII,Le Chevalier Danceny,Vicomte de Valmont
+Lettre CLVIII,Le Vicomte de Valmont,la Marquise de Merteuil
+Lettre CLIX,La Marquise de Merteuil,Vicomte de Valmont
+Lettre CLX,Madame de Volanges,Madame de Rosemonde
+Lettre CLXI,La présidente de Tourvel à…
+Lettre CLXII,Le Chevalier Danceny,Vicomte de Valmont
+Lettre CLXIII,Monsieur Bertrand,Madame de Rosemonde
+Lettre CLXIV,Madame de Rosemonde,monsieur Bertrand
+Lettre CLXV,Madame de Volanges,Madame de Rosemonde
+Lettre CLXVI,Monsieur Bertrand,Madame de Rosemonde
+Lettre CLXVII,Anonyme,monsieur le chevalier Danceny
+Lettre CLXVIII,Madame Volanges,Madame de Rosemonde
+Lettre CLXIX,Le chevalier Danceny,Madame de Rosemonde
+Lettre CLXX,Madame de Volanges,Madame de Rosemonde
+Lettre CLXXI,Madame de Rosemonde,chevalier Danceny
+Lettre CLXXII,Madame de Rosemonde,madame de Volanges
+Lettre CLXXIII,Madame de Volanges,Madame de Rosemonde
+Lettre CLXXIV,Le chevalier Danceny,Madame de Rosemonde
+Lettre CLXXV,Madame de Volanges,Madame de Rosemonde
