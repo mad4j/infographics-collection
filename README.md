@@ -1,6 +1,10 @@
 # Infographics collection
 collection of personal infographics
 
+## Exceptional Bugs
+<img src="infog-bugs01.png" width="640px" title="Bugs vol.01">
+<img src="infog-bugs02.png" width="640px" title="Bugs vol.02">
+
 ## Engineering Rules 
 <img src="infog-engrules.png" width="640px" title="Engineering Rules">
 
