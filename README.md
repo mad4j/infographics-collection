@@ -1,6 +1,9 @@
 # Infographics collection
 collection of personal infographics
 
+## Productivity Rues
+<img src="infog-prodrules.png" width="640px" title="Productivity Rules">
+
 ## Exceptional Bugs
 <img src="infog-bugs01.png" width="640px" title="Bugs vol.01">
 <img src="infog-bugs02.png" width="640px" title="Bugs vol.02">
