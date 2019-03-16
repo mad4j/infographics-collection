@@ -12,7 +12,7 @@ collection of personal infographics
 <img src="infog-engrules.png" width="640px" title="Engineering Rules">
 
 ## Making Mistakes in Program Management 
-<img src="Making Mistakes is humanpersevering makes the budget go out of business.png" width="640px" title="Management Rules">
+<img src="infog-mistakes.png" width="640px" title="Management Rules">
 
 ## Management Rules 
 <img src="infog-management.png" width="640px" title="Management Rules">
