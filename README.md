@@ -1,7 +1,10 @@
 # Infographics collection
 collection of personal infographics
 
-## Productivity Rues
+## Endianness
+<img src="infog-endianness.png" width="640px" title="Endianness">
+
+## Productivity Rules
 <img src="infog-prodrules.png" width="640px" title="Productivity Rules">
 
 ## Exceptional Bugs
