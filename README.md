@@ -1,6 +1,9 @@
 # Infographics collection
 collection of personal infographics
 
+## COVID-19
+<img src="20200824_230727_0000.png" width="640px" title="COVID-19">
+
 ## Endianness
 <img src="infog-endianness.png" width="640px" title="Endianness">
 
