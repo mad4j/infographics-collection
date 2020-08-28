@@ -1,6 +1,9 @@
 # Infographics collection
 collection of personal infographics
 
+## Essential Coding Style Guide
+<img src="20200824_234030_0000.png" width="640px" title="Essential Coding Style Guide">
+
 ## COVID-19
 <img src="20200824_230727_0000.png" width="640px" title="COVID-19">
 
