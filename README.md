@@ -66,7 +66,3 @@ collection of personal infographics
 ## Good Old SOLID Design
 
 <img src="infog-solid.png" width="640px" title="SOLID">
-
-
-
-
