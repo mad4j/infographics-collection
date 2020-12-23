@@ -2,6 +2,10 @@
 
 collection of personal infographics
 
+## Bad Things will go Bad
+
+<img src="20201223_063805_0000.png" width="640px" title="Bad Things will go Bad">
+
 ## Essential Coding Style Guide
 
 <img src="Essential-Coding-Style-Guide.png" width="640px" title="Essential Coding Style Guide">
