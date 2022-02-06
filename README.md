@@ -2,6 +2,14 @@
 
 collection of personal infographics
 
+## Delusive Management
+
+<img src="Delusive Management.png" width="640px" title="Delusive Management">
+
+## People Management
+
+<img src="People Management.png" width="640px" title="People Management">
+
 ## Bad Things will go Bad
 
 <img src="20201223_063805_0000.png" width="640px" title="Bad Things will go Bad">
