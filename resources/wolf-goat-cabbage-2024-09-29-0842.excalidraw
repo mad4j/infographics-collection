@@ -3138,8 +3138,8 @@
     },
     {
       "type": "arrow",
-      "version": 224,
-      "versionNonce": 2109047272,
+      "version": 256,
+      "versionNonce": 1693913496,
       "index": "b08",
       "isDeleted": false,
       "id": "B9AaHuR--oC8Bav6LnwHr",
@@ -3167,18 +3167,18 @@
           "id": "YJKdRF56S92GfUVMxnm5m"
         }
       ],
-      "updated": 1727595367942,
+      "updated": 1727595458988,
       "link": null,
       "locked": false,
       "startBinding": {
         "elementId": "lOBvykE1eUTSNx-0975iN",
-        "focus": -0.98753832989402,
+        "focus": -0.9865071952575059,
         "gap": 1,
         "fixedPoint": null
       },
       "endBinding": {
         "elementId": "mbkTfjfhoYSh0IFd5UC7I",
-        "focus": 0.4362222562250351,
+        "focus": 0.43768945197242354,
         "gap": 1,
         "fixedPoint": null
       },
@@ -3191,8 +3191,8 @@
           0
         ],
         [
-          3.4115297721281195,
-          -82.60006713867188
+          0.6246598311679463,
+          -77.58371400222177
         ],
         [
           173.01156639322187,
