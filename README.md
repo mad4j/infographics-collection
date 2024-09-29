@@ -78,3 +78,9 @@ collection of personal infographics
 ## Good Old SOLID Design
 
 <img src="infog-solid.png" width="640px" title="SOLID">
+
+## Wolf-Goat-Cabbage Riddle
+
+<img src="wolf-goat-cabbage-2024-09-29-0842.png" width="640px" title="WGC">
+
+
