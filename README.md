@@ -83,4 +83,8 @@ collection of personal infographics
 
 <img src="wolf-goat-cabbage-2024-09-29-0842.png" width="640px" title="WGC">
 
+## SW Team Management
+
+<img src="sw_team_management.png" width="640px" title="SW Team Management">
+
 
