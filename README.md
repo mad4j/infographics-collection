@@ -2,7 +2,11 @@
 
 collection of personal infographics
 
-## Delusive Management
+## States and Modes
+
+<img src="States and Modes.png" width="640px" title="States and Modes">
+
+## Sw Team Management
 
 <img src="sw_team_management.png" width="640px" title="Sw Team Management">
 
