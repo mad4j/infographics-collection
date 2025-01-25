@@ -4,6 +4,10 @@ collection of personal infographics
 
 ## Delusive Management
 
+<img src="sw_team_management.png" width="640px" title="Sw Team Management">
+
+## Delusive Management
+
 <img src="Delusive Management.png" width="640px" title="Delusive Management">
 
 ## People Management
