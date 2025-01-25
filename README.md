@@ -2,6 +2,10 @@
 
 collection of personal infographics
 
+## Self-referential Structures
+
+<img src="self-referential.png" width="640px" title="Self-referential">
+
 ## States and Modes
 
 <img src="States and Modes.png" width="640px" title="States and Modes">
